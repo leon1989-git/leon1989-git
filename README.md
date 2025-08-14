@@ -11,3 +11,9 @@
 ![Website](https://img.shields.io/badge/rleonr.com-up-green?style=for-the-badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/leon1989-git/leon1989-git)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--end_SECTION:activity-->
+

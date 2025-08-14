@@ -4,7 +4,7 @@
 :pencil: Empleado
 :eyeglasses: Geek empedernido (¿aún se usa geek?)
 :oncoming_automobile: Fan de la WWE
-:family: ¡El papá más feliz del mundo!
+:family:
 
 ### vias de contacto
 

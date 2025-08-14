@@ -13,7 +13,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/leon1989-git/leon1989-git)
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--end_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
